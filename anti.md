@@ -17,8 +17,6 @@ The question is, how should users make traditional sketches
 on a computer, as similarly as possible to how they do in real life?
 We could suppose that the result should be in a vector graphic format. 
 For context, I will strongly take the stance that something like a Wacom tablet is not a DSL.
-In fact, I would also claim that Photoshop is not a DSL, and even that Chess is not itself
-a DSL although many of its manifestations are.
 
 This helps artists in the digital age. It might be that an artist would be somehow able to
 describe their desired artwork, and it would be created.
